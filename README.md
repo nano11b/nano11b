@@ -1,1 +1,1 @@
-[!(https://github-stats-extended.vercel.app/api?username=nano11b&theme=radical)]
+(https://github-stats-extended.vercel.app/api?username=nano11b&theme=radical)
